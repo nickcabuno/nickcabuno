@@ -58,7 +58,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img style="margin: 1rem; verticle-align: top"  alt="Jonathan Calderon's Most Used Language Stats"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jonathan1600&layout=compact&theme=radical" />
+  <img style="margin: 1rem; verticle-align: top"  alt="Jonathan Calderon's Most Used Language Stats"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nickcabuno&layout=compact&theme=radical" />
 </div>
 
 [website]: google.com
