@@ -5,8 +5,7 @@
 
 - I’m currently learning computer science in Python
 - 2021 Goals: Graduate from Lambda School and get a developer job
-- I love to play video games and play sports
-
+- I love to play video games and hope to make my own soon
 ### Connect with me:
 
 [<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="assets\gmail.svg" />][gmail]
