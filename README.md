@@ -9,8 +9,6 @@
 
 ### Connect with me:
 
-[<img align="left" style="margin-right: 1.5rem" alt="Portfolio" width="36px" src="assets\site.svg" />][website]
-
 [<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="assets\gmail.svg" />][gmail]
 
 [<img align="left" style="margin-right: 1.5rem" alt="Twitter" width="36px" src="assets\twitter.svg" />][twitter]
