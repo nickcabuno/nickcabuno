@@ -3,9 +3,9 @@
 [![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fpersonal-portfolio-cyan.vercel.app/)](https://jonathan1600.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/me?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=ihunick)
 
-- 🌱 I’m currently learning computer science in Python
-- 🥅 2021 Goals: Graduate from Lambda School and get a developer job
-- ⚡ Fun fact: I love to play video games and play sports
+- I’m currently learning computer science in Python
+- 2021 Goals: Graduate from Lambda School and get a developer job
+- I love to play video games and play sports
 
 ### Connect with me:
 
@@ -61,7 +61,7 @@
   <img style="margin: 1rem; verticle-align: top"  alt="Jonathan Calderon's Most Used Language Stats"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jonathan1600&layout=compact&theme=radical" />
 </div>
 
-[website]: 
+[website]: google.com
 [gmail]: https://mail.google.com/mail/u/0/?fs=1&to=nickcabuno17@gmail.com&su=SUBJECT&body=BODY&tf=cm
 [twitter]: https://twitter.com/ihunick
 [linkedin]: https://www.linkedin.com/in/nickcabuno/
