@@ -1,6 +1,6 @@
-### Hello, my name is Nick and I'm a Full Stack Web Developer�
+### Hello, my name is Nick and I'm a Full Stack Web Developer
 
-[![Website](https://img.shields.io/website?label=portfolio&style=for-the-badge&url=https%3A%2F%2Fpersonal-portfolio-cyan.vercel.app/)](https://jonathan1600.github.io/)
+[![Website](https://img.shields.io/badge/PORTFOLIO-ME-brightgreen)](https://github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/me?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=ihunick)
 
 - I’m currently learning computer science in Python
@@ -9,13 +9,13 @@
 
 ### Connect with me:
 
-[<img align="left" style="margin-right: 1.5rem" alt="Portfolio" width="36px" src="assets\globe.svg" />][website]
+[<img align="left" style="margin-right: 1.5rem" alt="Portfolio" width="36px" src="assets\site.svg" />][website]
 
 [<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="assets\gmail.svg" />][gmail]
 
-[<img align="left" style="margin-right: 1.5rem" alt="Twitter" width="36px" src="assets\013-twitter-1.svg" />][twitter]
+[<img align="left" style="margin-right: 1.5rem" alt="Twitter" width="36px" src="assets\twitter.svg" />][twitter]
 
-[<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="assets\031-linkedin.svg" />][linkedin]
+[<img align="left" style="margin-right: 1.5rem" alt="LinkedIn" width="36px" src="assets\linkedin.svg" />][linkedin]
 
 <br />
 
