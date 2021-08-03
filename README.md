@@ -64,4 +64,4 @@
 [website]: google.com
 [gmail]: https://mail.google.com/mail/u/0/?fs=1&to=nickcabuno17@gmail.com&su=SUBJECT&body=BODY&tf=cm
 [twitter]: https://twitter.com/ihunick
-[linkedin]: https://www.linkedin.com/in/nickcabuno/
+[linkedin]: https://www.linkedin.com/in/nick-cabuno/
