@@ -1,6 +1,6 @@
 ### Hello, my name is Nick and I'm a Full Stack Web Developer
 
-[![Website](https://img.shields.io/badge/PORTFOLIO-!-brightgreen&?style=for-the-badge&logo=assets/site.svg)](https://nickcab.uno/)
+[![Website](https://img.shields.io/badge/PORTFOLIO-!-brightgreen&?style=for-the-badge&logo=assets/site.svg)](http://nickcab.uno/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ihunick?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=ihunick)
 
 - I’m currently learning computer science in Python
