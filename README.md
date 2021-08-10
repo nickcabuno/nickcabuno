@@ -25,6 +25,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-2E3440?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-2E3440?style=for-the-badge&logo=redux)
+![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
 ![React Router](https://img.shields.io/badge/React%20Router-2E3440?style=for-the-badge&logo=react%20router)
 ![Styled-Components](https://img.shields.io/badge/Styled%20Components-2E3440?style=for-the-badge&logo=styled-components)
 ![Material-UI](https://img.shields.io/badge/Material%20UI-2E3440?style=for-the-badge&logo=material-ui)
@@ -32,8 +33,6 @@
 ## Back End Skills:
 
 ![Node](https://img.shields.io/badge/Node-2E3440?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/Python-2E3440?style=for-the-badge&logo=python)
-![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E3440?style=for-the-badge&logo=postgresql)
 ![Express](https://img.shields.io/badge/Express-2E3440?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2E3440?style=for-the-badge&logo=mongodb)
@@ -41,6 +40,7 @@
 
 ## Tools Skills:
 
+![SQLite](https://img.shields.io/badge/SQLite-2E3440?style=for-the-badge&logo=sqlite)
 ![Github](https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github)
 ![git](https://img.shields.io/badge/git-2E3440?style=for-the-badge&logo=git)
 ![Netlify](https://img.shields.io/badge/Netlify-2E3440?style=for-the-badge&logo=netlify)
