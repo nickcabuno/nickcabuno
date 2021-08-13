@@ -3,9 +3,10 @@
 [![Website](https://img.shields.io/badge/PORTFOLIO-*-brightgreen&?style=for-the-badge&logo=assets/site.svg)](http://nickcab.uno/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ihunick?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=ihunick)
 
-- I’m currently working on a few personal projects as well as furthering my learning
+- I’m currently working on a project called Human Rights First: Blue Witness and a few personal projects as well as furthering my learning at Lambda School
 - 2021 Goals: Graduate from Lambda School and start my career as a developer
 - I love to play video games and hope to make my own one day
+
 ### Connect with me:
 
 [<img align="left" style="margin-right: 1.5rem" alt="Gmail" width="36px" src="assets\gmail.svg" />][gmail]
@@ -55,7 +56,7 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img style="margin: 1rem; verticle-align: top"  alt="Jonathan Calderon's Most Used Language Stats"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nickcabuno&layout=compact&theme=radical" />
+  <img style="margin: 1rem; verticle-align: top"  alt="Nick Cabuno's Most Used Language Stats"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nickcabuno&layout=compact&theme=radical" />
 </div>
 
 
