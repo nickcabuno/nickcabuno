@@ -58,8 +58,6 @@
   <img style="margin: 1rem; verticle-align: top"  alt="Jonathan Calderon's Most Used Language Stats"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=nickcabuno&layout=compact&theme=radical" />
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickcabuno&theme=tokyonight)
-
 
 [website]: nickcab.uno
 [gmail]: https://mail.google.com/mail/u/0/?fs=1&to=nickcabuno17@gmail.com&su=SUBJECT&body=BODY&tf=cm
