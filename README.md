@@ -5,7 +5,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ihunick?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=ihunick)
 
 - I’m currently working on a project called Human Rights First: Blue Witness and a few personal projects as well as furthering my learning at Lambda School
-- 2021 Goals: Graduate from Lambda School and start my career as a developer
 - I love to play video games and hope to make my own one day
 
 ### Connect with me:
